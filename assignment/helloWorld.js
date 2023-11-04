@@ -1,6 +1,8 @@
 // Code Comment
 
 console.log('hi ya');
+console.log('Hello World')
+
 
 //Variables 
 // let
